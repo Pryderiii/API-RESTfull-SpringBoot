@@ -4,6 +4,13 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+8001.lck
+8001.log
+8001.properties
+8001.script
+8001.tmp/
+
+
 
 ### STS ###
 .apt_generated
